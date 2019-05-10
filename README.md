@@ -1,5 +1,8 @@
 # Roobet Change Log
 
+## May 10, 2019
+* Rain restricted to only people who have deposited in the last 7 days
+
 ## May 8, 2019
 * Added dropdown under username (Top right of website)
 * Unified all inputs to use the same style and sizing
