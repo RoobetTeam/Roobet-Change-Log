@@ -2,6 +2,7 @@
 
 ## May 10, 2019
 * Rain restricted to only people who have deposited in the last 7 days
+* Changed OPSkins oAuth scope to not include identity
 
 ## May 8, 2019
 * Added dropdown under username (Top right of website)
