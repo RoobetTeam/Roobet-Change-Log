@@ -3,6 +3,8 @@
 ## May 11, 2019
 * Moved client seed changes under username dropdown (Top right of website)
 * Added active-depositor-only promotional code support
+* Moved FAQ + Support to the Navbar
+* Moved social links to the Footer
 
 ## May 10, 2019
 * Rain restricted to only people who have deposited in the last 7 days
