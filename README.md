@@ -1,5 +1,9 @@
 # Roobet Change Log
 
+## May 11, 2019
+* Moved client seed changes under username dropdown (Top right of website)
+* Added active-depositor-only promotional code support
+
 ## May 10, 2019
 * Rain restricted to only people who have deposited in the last 7 days
 * Changed OPSkins oAuth scope to not include identity
