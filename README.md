@@ -1,5 +1,8 @@
 # Roobet Change Log
 
+## May 15, 2019
+* Removed /surveys - We're working on a future solution which will replace this
+
 ## May 11, 2019
 * Moved client seed changes under username dropdown (Top right of website)
 * Added active-depositor-only promotional code support
