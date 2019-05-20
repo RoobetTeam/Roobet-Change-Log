@@ -1,5 +1,8 @@
 # Roobet Change Log
 
+## May 20, 2019
+* Replaced FAQ section with https://help.roobet.gg
+
 ## May 15, 2019
 * Removed /surveys - We're working on a future solution which will replace this
 
