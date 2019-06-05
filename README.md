@@ -1,5 +1,8 @@
 # Roobet Change Log
 
+## June 4, 2019
+* Re-did our rain system. Learn more here: https://help.roobet.com/general/how-rain-works
+
 ## May 21, 2019
 * Changed domain from roobet.gg to roobet.com
 
