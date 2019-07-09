@@ -1,6 +1,6 @@
 # Roobet Change Log
 
-## July 8, 2018
+## July 8, 2019
 * Added detailed Deposit and Withdrawal information under History section
 * If you have an active bet, you cannot claim faucet
 * Added ETH deposit support
