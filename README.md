@@ -1,5 +1,17 @@
 # Roobet Change Log
 
+## July 8, 2018
+* Added detailed Deposit and Withdrawal information under History section
+* If you have an active bet, you cannot claim faucet
+* Added ETH deposit support
+
+## July 1, 2019
+* Added tournaments https://roobet.com/tournaments
+* Re-worked the chat UI
+
+## June 15, 2019
+* Added last 5 deposits under each deposit method
+
 ## June 4, 2019
 * Re-did our rain system. Learn more here: https://help.roobet.com/general/how-rain-works
 
