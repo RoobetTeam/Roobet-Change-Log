@@ -1,5 +1,8 @@
 # Roobet Change Log
 
+## July 22, 2019
+* Changed our game edges to: Dice 1%, Crash 1%, Towers 1%, Mines 1%, Roulette 2.7%
+
 ## July 8, 2019
 * Added detailed Deposit and Withdrawal information under History section
 * If you have an active bet, you cannot claim faucet
