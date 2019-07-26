@@ -3,6 +3,8 @@
 ## July 26, 2019
 * Must have wagered at least $50 to chat
 * Auto save autocashout on crash
+* Changed high rollers feed to at least $10 bets
+* Fixed towers max bet button - It would sometimes try to make you bet more than you had.
 
 ## July 22, 2019
 * Changed our game edges to: Dice 1%, Crash 1%, Towers 1%, Mines 1%, Roulette 2.7%
