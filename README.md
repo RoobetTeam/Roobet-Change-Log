@@ -1,5 +1,11 @@
 # Roobet Change Log
 
+## Aug 2, 2019
+* Added pagination for Account > History
+
+## Aug 1, 2019
+* Added TemTum as a deposit and withdrawal method
+
 ## July 26, 2019
 * Must have wagered at least $50 to chat
 * Auto save autocashout on crash
