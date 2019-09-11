@@ -1,5 +1,12 @@
 # Roobet Change Log
 
+## Sept 11, 2019
+* Added a lot of features that we forgot to add to the change log
+* Added Coinflip
+* Added ability to cancel coinflips
+* Added "Bets" section in History
+* Updated "/fair" page with better explanations as well as a codesandbox drop-in instead of a link to the code
+
 ## Aug 2, 2019
 * Added pagination for Account > History
 
@@ -10,7 +17,7 @@
 * Must have wagered at least $50 to chat
 * Auto save autocashout on crash
 * Changed high rollers feed to at least $10 bets
-* Fixed towers max bet button - It would sometimes try to make you bet more than you had.
+* Fixed towers max bet button - It would sometimes try to make you bet more than you had
 
 ## July 22, 2019
 * Changed our game edges to: Dice 1%, Crash 1%, Towers 1%, Mines 1%, Roulette 2.7%
