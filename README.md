@@ -1,5 +1,10 @@
 # Roobet Change Log
 
+## Sept 12, 2019
+* Moved Support to the top
+* Moved Fairness to the bottom
+* Improved performance
+
 ## Sept 11, 2019
 * Added a lot of features that we forgot to add to the change log
 * Added Coinflip
