@@ -4,6 +4,7 @@
 * Moved Support to the top
 * Moved Fairness to the bottom
 * Improved performance
+* Cannot cancel CF game until 10 minutes has passed
 
 ## Sept 11, 2019
 * Added a lot of features that we forgot to add to the change log
