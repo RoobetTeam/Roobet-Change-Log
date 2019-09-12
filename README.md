@@ -3,8 +3,9 @@
 ## Sept 12, 2019
 * Moved Support to the top
 * Moved Fairness to the bottom
-* Improved performance
+* Improved performance of load time
 * Cannot cancel CF game until 10 minutes has passed
+* Improved performance of Dice
 
 ## Sept 11, 2019
 * Added a lot of features that we forgot to add to the change log
