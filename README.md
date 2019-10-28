@@ -1,5 +1,12 @@
 # Roobet Change Log
 
+## Oct 28, 2019
+* Created BTC & ETH wallets
+* BTC will deposit into BTC
+* ETH will deposit into ETH
+* BTC only withdrawable as BTC
+* ETH only withdrable as ETH
+
 ## Sept 12, 2019
 * Moved Support to the top
 * Moved Fairness to the bottom
